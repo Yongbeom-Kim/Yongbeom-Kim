@@ -1,17 +1,21 @@
 <span align="center">
-  <h3>Hey there! 👋</h3>
+  <h2>Hey There! 👋</h2>
 </span>
 
-#### I am interested in 🔥
+<img align="center" src="profile-pics/2022-11-07_eyeball_pic/headshot_cropped.png" width="150px" />
+
+<h3>I'm Yongbeom, a Year 2 Computer Science student at the National University of Singapore.</h3>
+
+#### I'm interested in 🔥:
 - Low-level programming
 - Language design & implementation
 - Machine Learning
 - Web Development
 
-#### I'm currently learning 🌱
+#### I'm currently learning 🌱:
 - C/C++
 - Mithril.js
-- Machine Learning
+- AI/ML
 
 <!-- <span align="center">
   <a href="mailto:yongbeom.kim@u.nus.edu">
