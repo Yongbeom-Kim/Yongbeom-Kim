@@ -1,11 +1,13 @@
-<span align="center">
-  
-### Hey there! 👋
-</span>
+<div align="left">
+  <span align="center">
+    <h3>Hey there! 👋</h3>
+  </span>
 
-I am Kim Yongbeom, bla bla bla
+  I am Kim Yongbeom, bla bla bla
 
-Interests: bla bla
+  Interests: bla bla
+
+</div>
 
 <!-- <span align="center">
   <a href="mailto:yongbeom.kim@u.nus.edu">
@@ -41,6 +43,7 @@ Interests: bla bla
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="35px" alt="expressjs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="35px" alt="webpack">
   <img src="https://github.com/evanw/esbuild/blob/master/images/logo.svg" height="35px" alt="esbuild">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="35px" alt="selenium">
 </span>
 <br>
 <span>
