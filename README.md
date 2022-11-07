@@ -55,8 +55,12 @@
 </span>
 <br>
 <span>
-  <image src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px" alt="firebase">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px" alt="firebase">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35px" alt="postgresql">
+</span>
+<br>
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/JavaFX_Logo.png/180px-JavaFX_Logo.png" height="35px" alt="javafx">
 </span>
 
 <!--
