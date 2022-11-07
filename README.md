@@ -1,13 +1,17 @@
-<div align="left">
-  <span align="center">
-    <h3>Hey there! 👋</h3>
-  </span>
+<span align="center">
+  <h3>Hey there! 👋</h3>
+</span>
 
-  I am Kim Yongbeom, bla bla bla
+#### I am interested in 🔥
+- Low-level programming
+- Language design & implementation
+- Machine Learning
+- Web Development
 
-  Interests: bla bla
-
-</div>
+#### I'm currently learning 🌱
+- C/C++
+- Mithril.js
+- Machine Learning
 
 <!-- <span align="center">
   <a href="mailto:yongbeom.kim@u.nus.edu">
@@ -24,7 +28,7 @@
 ---
 
 ### I've worked with:
-#### Languages:
+#### Languages🗣️
 
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="35px" alt="java">
@@ -34,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="35px" alt="latex">
 </span>
 
-#### Stacks & Frameworks:
+#### Stacks & Frameworks🥞
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35px" alt="html">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35px" alt="css">
