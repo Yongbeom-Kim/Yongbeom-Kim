@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="35px" alt="webpack">
   <img src="https://github.com/evanw/esbuild/blob/master/images/logo.svg" height="35px" alt="esbuild">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="35px" alt="selenium">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="35px" alt="docker">
 </span>
 <br>
 <span>
