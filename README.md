@@ -9,13 +9,13 @@
 #### I'm interested in 🔥:
 - Low-level programming
 - Language design & implementation
-- Machine Learning
-- Web Development
+- DevOps
+- Backend Development
 
 #### I'm currently learning 🌱:
 - C/C++
-- Mithril.js
-- AI/ML
+- Golang
+- Unix
 
 <!-- <span align="center">
   <a href="mailto:yongbeom.kim@u.nus.edu">
