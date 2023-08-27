@@ -4,7 +4,7 @@
 
 <img align="center" src="profile-pics/2022-11-07_eyeball_pic/headshot_cropped.png" width="150px" />
 
-<h3>I'm Yongbeom, a Year 2 Computer Science student at the National University of Singapore.</h3>
+<h3>I'm Yongbeom, an Year 3 Computer Science student at the National University of Singapore.</h3>
 
 #### I'm interested in 🔥:
 - Low-level programming
