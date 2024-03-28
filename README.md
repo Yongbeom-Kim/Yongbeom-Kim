@@ -7,15 +7,13 @@
 <h3>I'm Yongbeom, an Year 3 Computer Science student at the National University of Singapore.</h3>
 
 #### I'm interested in 🔥:
-- Low-level programming
-- Language design & implementation
+- Everything Linux
+- Cloud
 - DevOps
 - Backend Development
 
 #### I'm currently learning 🌱:
-- C/C++
 - Golang
-- Unix
 
 <!-- <span align="center">
   <a href="mailto:yongbeom.kim@u.nus.edu">
@@ -42,7 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="35px" alt="latex">
 </span>
 
-#### Stacks & Frameworks🥞
+#### Tools🔧
+<span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="35px" alt="docker">
+</span>
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="35px" alt="html">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35px" alt="css">
@@ -52,18 +53,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="35px" alt="webpack">
   <img src="https://github.com/evanw/esbuild/blob/master/images/logo.svg" height="35px" alt="esbuild">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="35px" alt="selenium">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="35px" alt="docker">
 </span>
-<br>
-<span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px" alt="firebase">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35px" alt="postgresql">
-</span>
-<br>
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/JavaFX_Logo.png/180px-JavaFX_Logo.png" height="35px" alt="javafx">
 </span>
 
+#### Databases 🛢️
+<span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="35px" alt="firebase">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="35px" alt="postgresql">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="35px" alt="sqlite">
+</span>
+
+#### Cloud ☁️
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="35px" alt="terraform">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35px" alt="amazon_web_services">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="35px" alt="google_cloud">
+</span>
 <!--
 **Yongbeom-Kim/Yongbeom-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
